@@ -1,0 +1,21 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go build output
+/bin
+
+# Test binaries
+*.test
+
+# Dependency directories
+vendor/
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
